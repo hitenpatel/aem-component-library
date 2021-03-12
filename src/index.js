@@ -1,2 +1,1 @@
-const { Text } = './components/Text'
-export { Text }
+export { default as Text } from './components/atoms/Text';
